@@ -10,4 +10,4 @@ Development Lead
 Contributors
 ------------
 
-* Filippo Gaudenzi <filippo.gaudenzi@unimi.it>
+None yet. Why not be the first?
