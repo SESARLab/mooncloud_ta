@@ -1,0 +1,6 @@
+wheel==0.24.0
+tornado==4.1
+celery==3.1.18
+futures==3.0.2
+lxml==3.4.4
+Babel==1.3
