@@ -36,12 +36,12 @@ class TestInstanceParser(Parser):
                         if elements.tag == "Input":
                             for inputitem in elements:
                                 input_key = inputitem.get("key")
-                                print("CHIAVE:" + input_key)
+                                print("key:" + input_key)
                                 try:
                                     input_value = inputitem.get("value") 
                                 except:
                                     pass
-                                print("VALORE:" , input_value or "")
+                                print("value:" , input_value or "")
                                 try:
                                     if input_value is None:# or input_value == "":
                                         print("cientro")
